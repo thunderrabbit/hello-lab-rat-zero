@@ -11,3 +11,6 @@
 
 # https://lab.robnugen.com/wp/wp-content/plugins/hello-lab-rat-zero.php
 print_r("helloooo  Zero!! https://lab.robnugen.com/wp/wp-content/plugins/hello-lab-rat-zero.php");
+
+# This should be the top line, to disallow anything (else) running from the URL above
+defined('ABSPATH') || exit;
