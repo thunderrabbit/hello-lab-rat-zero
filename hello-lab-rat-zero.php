@@ -8,3 +8,6 @@
  * Author URI: https://www.robnugen.com/
  * Text Domain: hello-lab-rat-zero
  */
+
+# https://lab.robnugen.com/wp/wp-content/plugins/hello-lab-rat-zero.php
+print_r("helloooo  Zero!! https://lab.robnugen.com/wp/wp-content/plugins/hello-lab-rat-zero.php");
