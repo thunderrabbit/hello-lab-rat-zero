@@ -20,7 +20,7 @@ msgstr ""
 #. Plugin Name of the plugin
 #: hello-lab-rat-zero.php
 msgid "Hello Lab Rat Zero"
-msgstr ""
+msgstr "ハロー・ラボラット・ゼロ"
 
 #. Plugin URI of the plugin
 #: hello-lab-rat-zero.php
@@ -30,18 +30,18 @@ msgstr ""
 #. Description of the plugin
 #: hello-lab-rat-zero.php
 msgid "Hand Made. The Way Nature Intended."
-msgstr ""
+msgstr "手作り。自然のままに。"
 
 #. Author of the plugin
 #: hello-lab-rat-zero.php
 msgid "Rob Nugen"
-msgstr ""
+msgstr "裸足のロブ"
 
 #. Author URI of the plugin
 #: hello-lab-rat-zero.php
 msgid "https://www.robnugen.com/"
-msgstr ""
+msgstr "https://www.robnugen.com/ja/"
 
 #: hello-lab-rat-zero.php:18
 msgid "Lab Rat Zero was here."
-msgstr ""
+msgstr "ラボラット・ゼロ参上。"
