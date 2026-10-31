@@ -3,7 +3,7 @@
  * Plugin Name: Hello Lab Rat Zero
  * Plugin URI: https://github.com/thunderrabbit/hello-lab-rat-zero
  * Description: Hand Made. The Way Nature Intended.
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Rob Nugen
  * Author URI: https://www.robnugen.com/
  * Text Domain: hello-lab-rat-zero
