@@ -8,13 +8,17 @@
  * Author URI: https://www.robnugen.com/
  * Text Domain: hello-lab-rat-zero
  * Domain Path: /languages
- * Requires at least: 6.8
  */
 
 # This disallows plugin running at https://lab.robnugen.com/wp/wp-content/plugins/hello-lab-rat-zero.php
 defined('ABSPATH') || exit;
 
 # `hlrz_` is plugin global namespace
+function hlrz_load_textdomain()
+{
+    load_plugin_textdomain('hello-lab-rat-zero', false, dirname(plugin_basename(__FILE__)) . '/languages');
+}
+add_action('init', 'hlrz_load_textdomain');
 function hlrz_shortcode()
 {
     return esc_html__('Lab Rat Zero was here.', 'hello-lab-rat-zero');
