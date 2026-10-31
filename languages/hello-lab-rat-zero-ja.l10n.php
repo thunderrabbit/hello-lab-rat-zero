@@ -1,0 +1,2 @@
+<?php
+return ['domain'=>'hello-lab-rat-zero','plural-forms'=>'nplurals=1; plural=0;','language'=>'ja','project-id-version'=>'Hello Lab Rat Zero 0.0.2','pot-creation-date'=>'2026-10-31T12:32:17+11:00','po-revision-date'=>'2026-10-31 12:53+1100','x-generator'=>'WP-CLI 2.12.0','messages'=>['Hello Lab Rat Zero'=>'ハロー・ラボラット・ゼロ','Hand Made. The Way Nature Intended.'=>'手作り。自然のままに。','Rob Nugen'=>'裸足のロブ','https://www.robnugen.com/'=>'https://www.robnugen.com/ja/','Lab Rat Zero was here.'=>'ラボラット・ゼロ参上。']];
