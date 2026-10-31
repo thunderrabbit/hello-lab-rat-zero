@@ -9,10 +9,7 @@
  * Text Domain: hello-lab-rat-zero
  */
 
-# https://lab.robnugen.com/wp/wp-content/plugins/hello-lab-rat-zero.php
-print_r("helloooo  Zero!! https://lab.robnugen.com/wp/wp-content/plugins/hello-lab-rat-zero.php");
-
-# This should be the top line, to disallow anything (else) running from the URL above
+# This disallows plugin running at https://lab.robnugen.com/wp/wp-content/plugins/hello-lab-rat-zero.php
 defined('ABSPATH') || exit;
 
 # `hlrz_` is plugin global namespace
