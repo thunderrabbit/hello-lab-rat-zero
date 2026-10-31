@@ -13,10 +13,8 @@
 defined('ABSPATH') || exit;
 
 # `hlrz_` is plugin global namespace
-function hlrz_admin_notice()
+function hlrz_shortcode()
 {
-    echo '<div class="notice notice-success"><p>'
-        . esc_html__('Hello from Lab Rat Zero!', 'hello-lab-rat-zero')
-        . '</p></div>';
+    return esc_html__('Lab Rat Zero was here.', 'hello-lab-rat-zero');
 }
-add_action('admin_notices', 'hlrz_admin_notice');
+add_shortcode('labrat', 'hlrz_shortcode');
