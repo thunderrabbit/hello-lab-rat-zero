@@ -7,6 +7,7 @@
  * Author: Rob Nugen
  * Author URI: https://www.robnugen.com/
  * Text Domain: hello-lab-rat-zero
+ * Domain Path: /languages
  */
 
 # This disallows plugin running at https://lab.robnugen.com/wp/wp-content/plugins/hello-lab-rat-zero.php
